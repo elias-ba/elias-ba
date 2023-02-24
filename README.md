@@ -8,4 +8,4 @@
 
 [![elias's github stats](https://github-readme-stats.vercel.app/api?username=elias-ba&show_icons=true&count_private=true&line_height=30&theme=dark&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ba&line_height=30&theme=dark&card_width=1000&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ba&line_height=30&theme=dark&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
