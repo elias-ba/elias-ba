@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐤 ... I am currently building [Lightning](https://demo.openfn.org/), a Digital Public Good, providing a web UI to visually manage and execute complex workflow automation and data integration projects.
+- 🐤 ... I am currently building [Lightning](https://github.com/OpenFn/Lightning), a Digital Public Good, providing a web UI to visually manage and execute complex workflow automation and data integration projects.
 - 🌁 ... I believe in building bridges between places
 - 🏃 ... I like to try hard things and learn along the way
 - 💬 ... Ask me anything about `data`, `automation`, and `software engineering`.
