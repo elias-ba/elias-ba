@@ -6,4 +6,4 @@
 - 💬 ... Ask me anything about `data`, `automation`, and `software engineering`.
 - 💌 ... Find me on [Twitter](https://twitter.com/eliaswalyba) and [LinkedIn](https://www.linkedin.com/in/eliaswalyba/).
 
-[![elias's github stats](https://github-readme-stats.vercel.app/api?username=elias-ba&show_icons=true&count_private=true&line_height=30&theme=transparent&card_width=1000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Some GH Stats](https://github-readme-stats.vercel.app/api?username=elias-ba&show_icons=true&count_private=true&line_height=30&theme=transparent&card_width=1000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
