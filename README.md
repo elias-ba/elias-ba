@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌩️  I am currently building [Lightning](https://github.com/OpenFn/Lightning), a DPG, for automating complex data & systems integration.
-- 🫶  I founded [GalsenAI](https://github.com/Galsenaicommunity/), one of the most active AI communities in Africa.
+- 💕  I am currently building [Lightning](https://github.com/OpenFn/Lightning), a DPG, for automating complex data & systems integration.
+- 🦄  I founded [GalsenAI](https://github.com/Galsenaicommunity/), one of the most active AI communities in Africa.
 - 🌁  I believe in building bridges between places and humans.
 - 🏃  I like to try hard things and learn along the way.
 - 💬  I am interested in machine intelligence, data & systems integration, and open source.
