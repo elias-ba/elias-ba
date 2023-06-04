@@ -12,6 +12,6 @@
 
 🔘 I teach software engineering and machine learning during my free time
 
-I speak Python, Elixir, English, French, Fula, and Wolof. And I am curious enough to learn any other language that allows me to communicate with computers and humans. 
+I speak fluently **Python**, **Elixir**, **Fula**, **Wolof**, **English**, and **French**. And I am always learning new language that allows me to communicate with computers and humans. 
 
 [![Some GH Stats](https://github-readme-stats.vercel.app/api?username=elias-ba&show_icons=true&count_private=true&line_height=30&theme=transparent&card_width=1000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
