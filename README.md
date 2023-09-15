@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![pandas_joysticks_cartridges_146625_2560x1024](https://github.com/elias-ba/elias-ba/assets/86059666/cb3b016e-d281-41cf-8523-c6a830e06dd7)
+
+
 🔘 I am a very curious person who loves using software engineering to solve problems in society.
 
 🔘 I believe in building bridges between places and humans.
