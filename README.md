@@ -14,3 +14,5 @@
 🔘 I teach software engineering and machine learning during my free time
 
 I speak fluently **Python**, **Elixir**, **Fula**, **Wolof**, **English**, and **French**. And I am always learning new language that allows me to communicate with computers and humans. 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-ba)](https://github.com/elias-ba)
