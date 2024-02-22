@@ -9,4 +9,6 @@ In my commitment to empowering the youth in Africa, I founded [GalsenAI](https:/
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elias-ba&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elias-ba&theme=dark)⠀ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elias-ba&theme=dark)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elias-ba&theme=dark)⠀ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elias-ba&theme=dark&utcOffset=8)
