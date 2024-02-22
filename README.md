@@ -1,4 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elias-ba&theme=dark)
 ### Hi there 👋
 
 🔘 I am a very curious person who loves using software engineering to solve problems in society.
@@ -13,9 +12,9 @@
 
 🔘 I teach software engineering and machine learning during my free time
 
-I speak fluently **Python**, **Elixir**, **Fula**, **Wolof**, **English**, and **French**. And I am always learning new language that allows me to communicate with computers and humans. 
+I speak fluently **Python**, **Elixir**, **Fula**, **Wolof**, **English**, and **French**. And I am always learning new language that allows me to communicate with computers and humans.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elias-ba&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elias-ba&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elias-ba&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elias-ba&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elias-ba&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elias-ba&theme=dark)⠀ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elias-ba&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elias-ba&theme=dark)⠀ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elias-ba&theme=dark&utcOffset=8)
