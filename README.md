@@ -7,8 +7,3 @@ Currently, I am part of the team at [OpenFn](https://github.com/OpenFn), where w
 In my commitment to empowering the youth in Africa, I founded [GalsenAI](https://twitter.com/galsenai) and [Galsen Coding Challenges](https://twitter.com/GalsenCoding). These organizations are dedicated to nurturing young African talents in AI and technology. Additionally, I share my knowledge by teaching software engineering and machine learning.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elias-ba&theme=blueberry)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elias-ba&theme=blueberry)⠀ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elias-ba&theme=blueberry)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elias-ba&theme=blueberry)⠀ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elias-ba&theme=blueberry&utcOffset=8)
