@@ -1,23 +1,15 @@
-# Elias Waly Ba
+Hi, I’m Elias.
 
-*I build software as infrastructure for people.*
+I build software as infrastructure for people.
 
-<br>
+I’m a senior software engineer working at the intersection of open source, AI, and digital public goods. I care less about shiny abstractions and more about systems that are reliable, understandable, and useful in the real world — especially in contexts where technology actually has consequences.
 
-Senior engineer at [OpenFn](https://github.com/OpenFn), crafting open-source workflow automation for governments and NGOs.
-Founder of [GalsenAI](https://github.com/GalsenAICommunity), nurturing AI community in Senegal.
+I currently work on Lightning at OpenFn, an open-source platform used by governments, NGOs, and public institutions to integrate systems and automate critical workflows. Much of my work sits at the boundary between engineering, product thinking, and real operational constraints.
 
-<br>
+I believe the best tools disappear into the workflow. Most hard problems are socio-technical before they are technical. Open source is not just about code, but about stewardship. AI is powerful, but understanding always matters more than prediction.
 
-The best tools disappear into the workflow.
-Most hard problems are socio-technical, not purely technical.
-Open source is a responsibility, not just a license.
-Sustainable software comes from clear thinking, not hype.
+Outside of my day job, I build and contribute to tools that reduce cognitive load for developers, experiment with machine learning and systems design, and spend a lot of time teaching and mentoring. I founded GalsenAI to help grow the AI and software engineering ecosystem in Senegal, and I’m deeply interested in how technology can serve emerging contexts without importing unnecessary complexity.
 
-<br>
+I enjoy working with people who think in systems, value clarity over cleverness, and care about the long-term shape of the things they build.
 
-[ask](https://github.com/elias-ba/ask) · [trsh](https://github.com/elias-ba/trsh) · [tyrex](https://github.com/elias-ba/tyrex) · [algo-visualizer](https://github.com/elias-ba/algo-visualizer)
-
-<br>
-
-[twitter](https://twitter.com/eliaswalyba) · [linkedin](https://linkedin.com/in/eliaswalyba) · [medium](https://medium.com/@eliaswalyba)
+If you’re interested in open source, AI for public interest, thoughtful software engineering, or community building, we’ll probably have something to talk about.
