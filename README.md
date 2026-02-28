@@ -1,8 +1,6 @@
 ## Hey, I'm Elias
 
-Senior Software Engineer at [OpenFn](https://openfn.org). Founder of [GalsenAI](https://galsen.ai).
-
-I build reliable systems at the intersection of open source, AI, and digital public goods. Most of my work focuses on [Lightning](https://github.com/openfn/lightning) — an open-source platform used by governments and NGOs to automate critical workflows.
+Senior Software Engineer at [OpenFn](https://openfn.org). Founder of [GalsenAI](https://galsen.ai). I build reliable systems at the intersection of open source, AI, and digital public goods. Most of my work focuses on [Lightning](https://github.com/openfn/lightning) — an open-source platform used by governments and NGOs to automate critical workflows.
 
 ### Things I've built
 
