@@ -1,13 +1,21 @@
-Hi 👋, I’m Elias and I build software as infrastructure for people.
+## Hey, I'm Elias
 
-I’m a senior software engineer working at the intersection of open source, AI, and digital public goods. I care less about shiny abstractions and more about systems that are reliable, understandable, and useful in the real world, especially in contexts where technology actually has consequences.
+Senior Software Engineer at [OpenFn](https://openfn.org). Founder of [GalsenAI](https://galsen.ai).
 
-I currently work at [OpenFn](https://github.com/openfn), mainly focusing on building [Lightning](https://github.com/openfn/lightning), an open-source platform used by governments, NGOs, and public institutions to integrate systems and automate critical workflows. Much of my work sits at the boundary between engineering, product thinking, and real operational constraints.
+I build reliable systems at the intersection of open source, AI, and digital public goods. Most of my work focuses on [Lightning](https://github.com/openfn/lightning) — an open-source platform used by governments and NGOs to automate critical workflows.
 
-I believe the best tools disappear into the workflow. Most hard problems are socio-technical before they are technical. Open source is not just about code, but about stewardship. And AI is powerful, but understanding always matters more than prediction.
+### Things I've built
 
-Outside of my day job, I build and contribute to tools that reduce cognitive load for developers, experiment with machine learning and systems design, and spend a lot of time teaching and mentoring. I founded [GalsenAI](https://galsen.ai) to help grow the AI and software engineering ecosystem in Senegal, and I’m deeply interested in how technology can serve emerging contexts without importing unnecessary complexity.
+- **[ask](https://github.com/elias-ba/ask)** — AI-powered CLI tool for developers who live in the terminal
+- **[trsh](https://github.com/elias-ba/trsh)** — Safe file deletion with restore. Never lose files to `rm` again
+- **[tyrex](https://github.com/elias-ba/tyrex)** — Genetic programming and neuroevolution library for Elixir
+- **[algo-visualizer](https://github.com/elias-ba/algo-visualizer)** — Interactive algorithm visualizer built with Phoenix LiveView
+- **[todotracker](https://github.com/elias-ba/todotracker)** — Sync TODOs from source code to GitHub issues
 
-I enjoy working with people who think in systems, value clarity over cleverness, and care about the long-term shape of the things they build.
+### What I care about
 
-If you’re interested in open source, AI for public interest, thoughtful software engineering, or community building, we’ll probably have something to talk about.
+- Systems that work in the real world, especially where technology has real consequences
+- Open source as stewardship, not just code
+- Growing the AI and engineering ecosystem in Senegal
+
+I enjoy working with people who think in systems and value clarity over cleverness.
