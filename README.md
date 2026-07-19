@@ -11,3 +11,5 @@ I founded [GalsenAI](https://galsen.ai) to grow the AI and software engineering 
 My deepest conviction is that most hard problems in software are sociotechnical before they are technical. That open source is an act of stewardship, not charity. That AI is powerful, but understanding always matters more than prediction. And that the right amount of complexity is the minimum amount - three honest lines of code will always beat a premature abstraction.
 
 I enjoy working with people who think in systems, who value clarity over cleverness, and who care about the long-term shape of the things they build.
+
+[![committers.top badge](https://user-badge.committers.top/senegal_public/elias-ba.svg)](https://user-badge.committers.top/senegal_public/elias-ba)
